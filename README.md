@@ -15,6 +15,6 @@
 
 ```bash
 git clone https://github.com/Uranium227/tweetkeywordvisualizer.git
-cd TweetKeywordVisualizer
+cd tweetkeywordvisualizer
 pip install -r requirements.txt
 python tweetkeywordvisualizer.py

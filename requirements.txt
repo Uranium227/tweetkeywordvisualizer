@@ -1,0 +1,5 @@
+tweepy
+matplotlib
+wordcloud
+nltk
+python-dotenv
